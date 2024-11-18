@@ -1,0 +1,15 @@
+{
+    "name": "aldar/my-core",
+    "autoload": {
+        "psr-4": {
+            "Aldar\\MyCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AldarBudazhapov",
+            "email": "budazhapov@aginskhost.ru"
+        }
+    ],
+    "require": {}
+}

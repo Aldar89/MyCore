@@ -1,6 +1,6 @@
 <?php
 
-namespace Service\Authentication;
+namespace Core\Authentication;
 
 interface AuthServiceInterface
 {

@@ -2,7 +2,7 @@
     "name": "aldar/my-core",
     "autoload": {
         "psr-4": {
-            "Aldar\\MyCore\\": "src/"
+            "Core\\": "src/"
         }
     },
     "authors": [

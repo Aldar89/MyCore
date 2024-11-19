@@ -1,6 +1,6 @@
 <?php
 
-namespace Core\src;
+namespace Core;
 use Service\CartService;
 use Service\Logger\LoggerServiceInterface;
 use Service\OrderService;

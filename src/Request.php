@@ -1,6 +1,6 @@
 <?php
 
-namespace Core\src;
+namespace Core;
 
 class Request
 {

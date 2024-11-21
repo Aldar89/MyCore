@@ -1,9 +1,9 @@
 <?php
 
 namespace Core;
-use Service\CartService;
+
 use Service\Logger\LoggerServiceInterface;
-use Service\OrderService;
+
 
 class App
 {
